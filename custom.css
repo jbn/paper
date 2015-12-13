@@ -1,0 +1,28 @@
+<style>
+body {
+    font-family: Verdana; 
+    line-height:1.5; 
+    margin:0 auto; 
+    max-width: 750px;
+}
+div#header{ 
+    border-bottom:1px solid #aaa; 
+    border-top:1px solid #aaa; 
+    line-height:1.0; 
+    margin-bottom:4em; 
+    margin-top:2em; 
+    padding-bottom: 4em; 
+    padding-top: 4em; 
+    text-align: center;
+}
+dt {
+    font-style: italic; 
+    font-weight: bold;
+}
+div.figure {
+    padding-left: 3em;
+    padding-right: 3em; 
+    font-variant: small-caps; 
+    text-align:center
+}
+</style>
